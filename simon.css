@@ -1,0 +1,30 @@
+* {
+    text-align: center;
+}
+.mainbox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.mainbox div{
+    border:6px solid black;
+    border-radius: 20px;
+    height: 200px;
+    width: 200px;
+    margin: 10px 15px;
+}
+.deeppink{
+   background-color: deeppink;      
+}
+ .blue{
+    background-color:blue;      
+ }
+ .orange{
+    background-color:orange;  
+ }
+.blueviolet{
+    background-color:blueviolet;      
+ }
+ .flash{
+    background-color: white;
+ }
